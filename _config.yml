@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: lemondnw
+  name: Dai Ningwei
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Hello world!"
   email: 
   disqus-shortname: 
   twitter: #username
@@ -52,7 +52,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #username
+  weibo: http://weibo.com/u/2692198373
   flickr: #username
 
 include: [".htaccess"]
